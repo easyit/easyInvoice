@@ -1,5 +1,23 @@
+##https://github.com/jondot/awesome-react-native
+
+
+
 ## react-native-barcodescanner
 https://github.com/ideacreation/react-native-barcodescanner.git  
     "react": "15.4.1",
     "react-native": "^0.38.0"
 npm i --save react-native-barcodescanner
+
+## Sample 
+https://github.com/crazycodeboy/GitHubPopular
+
+
+##react-native-material-kit
+https://github.com/xinthink/react-native-material-kit
+$npm install -S react-native-material-kit
+
+$react-native link react-native-material-kit
+
+###demo app using material kit
+https://github.com/xinthink/rnmk-demo
+
